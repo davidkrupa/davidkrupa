@@ -30,7 +30,6 @@ I am a front-end developer and creator of real-life problem-solving apps. I have
 
 ### Stats:
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=davidkrupa&theme=default&show_icons=true" />
 <img align="left" width="42.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidkrupa&layout=compact" />
 
 
