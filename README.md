@@ -9,7 +9,7 @@ I am a front-end developer and creator of real-life problem-solving apps. I have
 #
 
 ### Languages and tools:
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,express,nodejs,sass,tailwind,materialui,html,css,git,github,figma,ps)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,express,nodejs,tailwind,sass,materialui,git,github,figma,ps)](https://skillicons.dev)
 
 <br />
 
