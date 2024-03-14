@@ -4,7 +4,7 @@
 
 **`Frontend Developer`**
 
-I am a freelance front-end developer and creator of real-life problem-solving apps. I have a technical background and e-commerce experience, which gives me a wide perspective on challenges and problems that need solutions. Solutions that can be solved with good code. I believe that the way to success is by collaborating with great people instead of competing with them. Let's talk!
+I am a freelance frontend developer and creator of real-life problem-solving apps. I have a technical background and e-commerce experience, which gives me a wide perspective on challenges and problems that need solutions. Solutions that can be solved with good code. I believe that the way to success is by collaborating with great people instead of competing with them. Let's talk!
 
 #
 
